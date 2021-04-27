@@ -1,0 +1,22 @@
+.inputContainer {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+input {
+  width: -webkit-fill-available;
+  height: 24px;
+  border-radius: 0;
+  border-style: solid;
+  border: 1px solid #aaa;
+  margin-top: 2px;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid #111;
+}
+
+.mb-0 {
+  margin: 0;
+}
