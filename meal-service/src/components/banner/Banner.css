@@ -1,0 +1,38 @@
+@media screen and (max-width: 600px) {
+  .banner-cont {
+    height: 60vh;
+  }
+  .outer-banner-cont {
+    height: 50vh;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .banner-cont {
+    height: 30vh;
+  }
+  .outer-banner-cont {
+    height: 43vh;
+  }
+}
+
+.outer-banner-cont {
+  position: relative;
+}
+
+.banner-cont {
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.banner-info-cont {
+  top: 20vh;
+  position: relative;
+  width: 50vw;
+  margin: 0 auto;
+}

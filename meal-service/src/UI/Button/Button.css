@@ -1,0 +1,16 @@
+.btn {
+  color: #fff;
+  border-radius: 20px;
+  padding: 6px 20px;
+  border: none;
+  transition: 0.3s;
+  height: fit-content;
+  transition-timing-function: ease-out;
+  background-color: rgb(12, 78, 12);
+  box-shadow: 0 1.8px 1.2px rgba(0, 0, 0, 0.014),
+    0 2.7px 2.3px rgba(0, 0, 0, 0.58), 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.btn:hover {
+  background-color: rgb(90, 201, 0);
+}

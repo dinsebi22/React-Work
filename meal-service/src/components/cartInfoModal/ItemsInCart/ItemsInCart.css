@@ -1,0 +1,12 @@
+.modal-info {
+  width: 400px;
+}
+
+.meal-item-data {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.meal-item-data > * {
+  flex: 1 1 30%;
+}

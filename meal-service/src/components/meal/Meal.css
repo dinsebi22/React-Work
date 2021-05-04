@@ -1,0 +1,18 @@
+h5,
+p {
+  margin: 0;
+}
+
+.meal-info {
+  display: inline-block;
+}
+
+.add-to-cart {
+  float: right;
+}
+
+hr {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ddd;
+}
