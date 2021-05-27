@@ -1,0 +1,17 @@
+.outerBox {
+  height: 12rem;
+  width: 12rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerBox {
+  flex-shrink: 0;
+  font-size: 10rem;
+  font-weight: bolder;
+  line-height: 10rem;
+  height: 10rem;
+  width: 10rem;
+  text-align: center;
+}
