@@ -1,0 +1,37 @@
+.sectionTitle {
+  text-align: center;
+}
+
+.sectionTitle {
+  margin: 0;
+}
+
+.main h2 {
+  margin: 0;
+}
+.main h1 {
+  margin: 5px;
+}
+
+.tableView {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.tableView h5 {
+  margin: 10px;
+}
+
+hr {
+  margin: 0;
+}
+
+.other {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.other h5 {
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
